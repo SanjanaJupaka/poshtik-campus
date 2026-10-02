@@ -49,6 +49,20 @@ nav a
 {
   margin-right: 18px;
 }
+/* ===== Lab 3 . Ex.2 - the order form joins the brand ===== */
+form
+{
+  background-color: mintcream;
+  border: 2px solid seagreen;
+  padding: 16px;
+  width: 480px;
+}
+legend
+{
+  color: seagreen; font-weight: 600;
+}
+button
+{background-color: seagreen; color: white; border: none; padding: 8px 16px;}
 /* ===== phone layout ... slides down, stays LAST ===== */
 @media (max-width: 600px)
 {
